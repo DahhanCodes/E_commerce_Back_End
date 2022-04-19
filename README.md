@@ -17,6 +17,7 @@
    1. download or clone file
    2. npm install or npm i - to download the dependencies (express, mysql2, sequelize, dotenv)
    3. create .env file for mysql user and password
+   4. [Video example](https://drive.google.com/file/d/1F0LeWOaF4nDyNVa9G9Qkm-_JUPv7CN-0/view)
 ## Usage
 1. run seed (npm run seed).
 2. test routes on insomnia.
